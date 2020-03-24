@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4000px" height="4000px" viewBox="0 0 4000 4000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ETH_non-isoceles</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ETH_non-isoceles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(80.000000, 80.000000)">
+            <g id="Group-2">
+                <g id="Group">
+                    <circle id="Oval" fill="#000000" cx="1920" cy="1920" r="1920"></circle>
+                    <polygon id="Path-7" fill="#FFFFFF" points="1895.6962 2560 1895.6962 3208.10127 1101.77215 1927.38403 1152.52306 1965.22251"></polygon>
+                    <polygon id="Path-7" fill="#FFFFFF" transform="translate(2341.265823, 2568.459885) scale(-1, 1) translate(-2341.265823, -2568.459885) " points="2738.22785 2560 2738.22785 3208.8185 1944.3038 1928.10127 1995.0547 1965.93975"></polygon>
+                    <polygon id="Path-5" fill="#FFFFFF" transform="translate(2341.265823, 1222.787217) scale(-1, 1) translate(-2341.265823, -1222.787217) " points="2738.22785 631.898734 2738.22785 1555.44304 1944.3038 1813.6757"></polygon>
+                    <polygon id="Path-5" fill="#FFFFFF" points="1895.6962 631.898734 1895.6962 1555.44304 1101.77215 1813.6757"></polygon>
+                    <polygon id="Path-6" fill="#FFFFFF" transform="translate(2341.265823, 2025.316456) scale(-1, 1) translate(-2341.265823, -2025.316456) " points="2738.22785 1620.25316 2738.22785 2430.37975 1944.3038 1813.6757"></polygon>
+                    <polygon id="Path-6" fill="#FFFFFF" points="1895.6962 1620.25316 1895.6962 2430.37975 1101.77215 1813.6757"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
